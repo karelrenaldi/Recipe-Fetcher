@@ -1,0 +1,25 @@
+{
+  "name": "recipe-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karelrenaldi/Recipe-Fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karelrenaldi/Recipe-Fetcher/issues"
+  },
+  "homepage": "https://github.com/karelrenaldi/Recipe-Fetcher#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ]
+}
