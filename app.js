@@ -43,8 +43,3 @@ function displayData(recipes){
 }
 
 form.addEventListener("submit", handleSubmit);
-
-// href: "http://www.nibbledish.com/people/Shishio/recipes/pizza-tonno-e-cipolla"
-// ingredients: "pizza, pizza"
-// thumbnail: "http://img.recipepuppy.com/508990.jpg"
-// title: "Pizza Tonno E Cipolla"
